@@ -34,6 +34,4 @@ Aplicación web desarrollada con React, TypeScript y Tailwind CSS para gestionar
 
 https://ing12.github.io/CalculadoraDePropinas/
 
-## Autor
 
-Leslie Isabel García García
